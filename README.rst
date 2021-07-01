@@ -154,6 +154,6 @@ History
 ------------------
 
 * Created a "validator" Class is  to incorporate all the validation-related methods.
-* Added an argument to allow users specifying a specific of DIGGS XSD Schema for validation.
+* Added an argument to allow users specifying a specific version of the DIGGS XSD Schema for validation.
 * Added a Schematron validation method.
 * Updated Documentation.
