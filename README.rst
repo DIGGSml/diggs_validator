@@ -153,7 +153,7 @@ History
 0.1.2 (2021-06-30)
 ------------------
 
-* Created a "validator" Class is  to incorporate all the validation-related methods.
+* Created a "validator" Class to incorporate all the validation-related methods.
 * Added an argument to allow users specifying a specific version of the DIGGS XSD Schema for validation.
 * Added a Schematron validation method.
 * Updated Documentation.
